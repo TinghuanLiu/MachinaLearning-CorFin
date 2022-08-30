@@ -1,4 +1,4 @@
-# MachinaLearning-CorFin
+# MachineLearning-CorFin
 
 ## Case 1: Estimate Equity Beta with Ramdon Forest
 
